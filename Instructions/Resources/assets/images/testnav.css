@@ -1,0 +1,16 @@
+.nav-item active {
+    float: left;
+}
+.navbar navbar-expand-lg navbar-light bg-light {
+    background-color: white;
+    margin:10px;
+    padding: 10px;
+}
+.navbar-brand {
+    color: white;
+    background-color: #2DC8C2;
+    padding: 15px;
+    font-size: 20px;
+    
+}
+

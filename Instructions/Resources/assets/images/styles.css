@@ -1,0 +1,86 @@
+h1 {
+    
+    color: #2DC8C2;
+    font-weight:bold;
+  }
+  
+  h2 {
+    color: #2DC8C2;
+    font-weight:bold;
+  }
+  
+  
+  
+  main.Img {
+    min-width: 400px;
+    height: auto;
+    padding-bottom: 5px;
+  }
+
+  img {
+    min-width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+   
+  }
+  
+  section {
+    background-color: #000;
+  }
+  
+  p {
+    font-size: 20px;
+    color: gray;
+    padding: 10px;
+  }
+  
+ 
+
+  aside {
+      background-color: white;
+      max-width: 90%;
+      float: right;
+  }
+
+ .grayBody {
+     background-color:#ECEBEB;
+     padding: 20px;
+     max-width: 95%;
+ }
+ .dataArticle {
+    background-color: white;
+    max-width: 100%;
+    
+}
+ article {
+     max-width: 50%;
+     background-color: white;
+     padding: 15px;
+     margin-top: 15px;
+     margin-bottom: 15px;
+ }
+
+ p.Right {
+     float: right;
+     font-size: 20px;
+ }
+
+ 
+
+ .navbar-brand {
+    color: white;
+    background-color: #2DC8C2;
+    padding: 15px;
+    font-size: 20px;
+    
+}
+
+table {
+    padding-left: 50px;
+    margin-left: 300px;
+}
+
+body {
+  max-width: 95%;
+}
